@@ -1,4 +1,4 @@
-FROM docker.elastic.co/elasticsearch/elasticsearch-oss:6.6.1
+FROM docker.elastic.co/elasticsearch/elasticsearch-oss:6.8.7
 
 LABEL maintainer="Vander Zago"
 
